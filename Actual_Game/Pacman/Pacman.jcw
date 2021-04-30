@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Pacman</label>
+		<id>204</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Pacman.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Pacman.jcp</path>
+		</project>
+	</projects>
+</workspace>
